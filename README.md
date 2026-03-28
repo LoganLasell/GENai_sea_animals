@@ -1,6 +1,6 @@
 # Creating New Sea Animals Using a Generative Adversarial Network (GAN)
 
-## This GAN was used for my CS312 - AI & Machine Learning Final
+## This GAN was used for my final for CS312 - AI & Machine Learning
 
 #### My goal of this project was to create new realistic images of sea animals using a downloaded dataset from Kaggle that contains 13000+ images of sea animals and a GAN model. I initally tried to use the entire dataset inside the model, but the buffer time was way too long. So I still included that code for organizing the entire dataset into the model, but for mine specifically I only loaded one animal subtype. 
 
