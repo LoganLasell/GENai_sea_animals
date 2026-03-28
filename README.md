@@ -6,3 +6,6 @@
 
 ## ML methods 
 #### I needed to train a Generative Adversarial Network model to take in real images and create spoofs based off of them. I fed the model, a resized 128 x 128 grayscale image of real animals of one species and had it reproduce the same using a generated image.
+
+## Data Source
+#### https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste
