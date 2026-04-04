@@ -8,7 +8,10 @@
 #### I trained a Generative Adversarial Network model to take in real images and create spoof images based off of them. I fed the model, a resized 128 x 128 grayscale image of real sea animals and had it reproduce the same using a generated image.
 
 ## Limitations
-#### The first limitation I ran into was that the epoch length was nowhere near the length needed for accurate sea animal image replication. And my current hardware specifications limited the speed of training for the GAN. 
+#### The first limitation I ran into was that the epoch length was nowhere near the length needed for accurate sea animal image replication. And my current hardware specifications limited the speed of training for the GAN.
+
+## Future Works
+#### As I continuously update this model, I will work to upscale the generative image resolution and overall model efficiency. 
 
 ## Data Source
 #### https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste
